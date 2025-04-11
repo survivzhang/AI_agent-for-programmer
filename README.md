@@ -4,7 +4,7 @@ An interview chatbox
 / → 欢迎页 / 角色选择页面  
 当前角色：[🔘 出题者] [⚪ 面试者]
 
-React + Node.js + PostgreSQL
+React + Node.js + PostgreSQL + TailwindCSS
 
 通用题库生成组件（两角色共用）
 岗位名称：[____]  
