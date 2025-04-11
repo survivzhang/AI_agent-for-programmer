@@ -55,3 +55,8 @@ GPT 点评 + 建议
 | AI 点评 / 总结 |
 
 ---
+
+cd backend
+dotnet run
+默认会在 https://localhost:5001 或 http://localhost:5000 运行
+
